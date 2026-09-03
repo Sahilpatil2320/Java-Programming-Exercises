@@ -37,7 +37,7 @@ Java-Programming-Exercises/
 │   ├── Subproblem3.java
 │   └── Subproblem4.java
 │
-├── Boat Ticket/
+├── Boat-Ticket/
 │   ├── Subproblem1.java
 │   ├── Subproblem2.java
 │   ├── Subproblem3.java
@@ -52,86 +52,99 @@ Java-Programming-Exercises/
 └── ...
 ```
 
-### 📌 Structure Explanation
+---
 
-* **Problem Folder** → Contains all subproblems related to one exercise.
-* **Subproblem Files** → Individual Java solutions for each question.
-* **README.md** → Repository documentation.
+## 📚 Exercises
+
+### 🍹 Beverage
+
+Contains four Java programming subproblems based on the Beverage exercise.
+
+**Status:** ✅ Completed
+
+### 🚤 Boat-Ticket
+
+Contains four Java programming subproblems based on the Boat Ticket exercise.
+
+**Status:** ✅ Completed
+
+### 🎂 Cake
+
+Contains four Java programming subproblems based on the Cake exercise.
+
+**Status:** ✅ Completed
 
 ---
 
-## 📚 What This Repository Covers
+## 🧠 What This Repository Covers
 
-The exercises may include:
+The exercises are designed to strengthen practical Java programming and problem-solving skills, including:
 
-* Java Fundamentals
-* Variables & Data Types
+* Variables and Data Types
+* Input and Output
 * Operators
 * Conditional Statements
 * Loops
+* Methods
 * Arrays
 * Strings
-* Methods
-* Object-Oriented Programming
-* Collections
-* Mathematical Problems
-* Logical Problems
-* Practical Programming Exercises
-
-More topics will be added as the repository grows.
+* Mathematical Operations
+* Logical Problem Solving
+* Java Fundamentals
 
 ---
 
-## 💻 Practice Process
+## 🔄 Practice Process
 
-For every problem, I follow a simple approach:
-
-**Understand → Analyze → Build Logic → Code → Test → Improve**
-
-The main focus is not only on writing code but also on understanding **why the solution works**.
-
----
-
-## 📊 Progress
-
-This repository is actively maintained and updated with new exercises.
-
-| Activity               | Status             |
-| ---------------------- | ------------------ |
-| Repository setup       | ✅ Completed        |
-| Initial exercises      | ✅ Added            |
-| Regular practice       | 🔄 Ongoing         |
-| New problems           | 🔄 Added regularly |
-| Java skill improvement | 🔄 Ongoing         |
+```text
+Understand the Problem
+        ↓
+Analyze the Requirements
+        ↓
+Design the Logic
+        ↓
+Write Java Code
+        ↓
+Test the Program
+        ↓
+Fix Errors
+        ↓
+Add Solution to Repository
+```
 
 ---
 
-## 🔄 Continuous Practice
+## 📈 Progress
 
-New programs will be added **one by one** as I solve them.
+| No. | Exercise       | Subproblems |    Status   |
+| --: | -------------- | :---------: | :---------: |
+|   1 | Beverage       |      4      | ✅ Completed |
+|   2 | Boat-Ticket    |      4      | ✅ Completed |
+|   3 | Cake           |      4      | ✅ Completed |
+|   4 | More Exercises |      —      |  ⏳ Upcoming |
 
-The purpose is to create a long-term collection of Java exercises that can be used for:
+---
 
-* Revision
-* Practice
-* Placement preparation
-* Interview preparation
-* Reference for future projects
+## 🚀 Continuous Practice
+
+This repository will be continuously updated with new Java programming exercises and solutions.
+
+The goal is to follow:
+
+**Practice → Problem Solving → Improvement → Consistency**
 
 ---
 
 ## 👨‍💻 Author
 
-### Sahil Patil
+**Sahil Patil**
 
 B.Tech Computer Science & Engineering Student
 
-Interested in **Java Development, Data Structures & Algorithms, Backend Development, Problem Solving, and Software Engineering**.
+Focused on **Java Development, Backend Development, Full Stack Development, and Data Structures & Algorithms**.
 
 ---
 
 ## ⭐ Repository Purpose
 
-This repository represents my **continuous Java programming practice** and serves as a structured collection of problems and solutions developed throughout my learning journey.
-
-> 🚀 **Code consistently. Think logically. Keep improving.**
+This repository serves as a personal collection of Java programming exercises to track learning progress, strengthen programming fundamentals, and improve problem-solving skills for **placements and technical interviews**.
