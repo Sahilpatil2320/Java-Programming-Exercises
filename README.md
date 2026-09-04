@@ -49,6 +49,12 @@ Java-Programming-Exercises/
 │   ├── Subproblem3.java
 │   └── Subproblem4.java
 │
+├── Cattle-Farm/
+│   ├── Subproblem1.java
+│   ├── Subproblem2.java
+│   ├── Subproblem3.java
+│   └── Subproblem4.java
+│
 └── ...
 ```
 
@@ -73,6 +79,12 @@ Contains four Java programming subproblems based on the Boat Ticket exercise.
 Contains four Java programming subproblems based on the Cake exercise.
 
 **Status:** ✅ Completed
+
+🐄 Cattle-Farm
+
+Contains four Java programming subproblems based on the Cattle Farm exercise.
+
+Status: ✅ Completed
 
 ---
 
@@ -121,6 +133,7 @@ Add Solution to Repository
 |   1 | Beverage       |      4      | ✅ Completed |
 |   2 | Boat-Ticket    |      4      | ✅ Completed |
 |   3 | Cake           |      4      | ✅ Completed |
+|   4 | Cattle Farm    |      4      | ✅ Completed |
 |   4 | More Exercises |      —      |  ⏳ Upcoming |
 
 ---
