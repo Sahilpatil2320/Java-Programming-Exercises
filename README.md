@@ -84,6 +84,12 @@ Java-Programming-Exercises/
 │   ├── Subproblem2.java
 │   ├── Subproblem3.java
 │   └── Subproblem4.java
+│
+├── Paris Art/
+│   ├── Subproblem1.java
+│   ├── Subproblem2.java
+│   ├── Subproblem3.java
+│   └── Subproblem4.java
 └── ...
 ````
 
@@ -145,6 +151,12 @@ Contains four Java programming subproblems based on the Icecream exercise.
 
 **Status:** ✅ Completed
 
+### Paris Art
+
+Contains four Java programming subproblems based on the Paris art exercise.
+
+**Status:** ✅ Completed
+
 ---
 
 ## 🧠 What This Repository Covers
@@ -197,8 +209,9 @@ Add Solution to Repository
 |   6 | Datamart       |      4      | ✅ Completed |
 |   7 | Farm           |      4      | ✅ Completed |
 |   8 | Icecream       |      4      | ✅ Completed |
-|   9 | Nursery       |      4      | ✅ Completed |
-|  10 | More Exercises |      —      |  ⏳ Upcoming |
+|   9 | Nursery        |      4      | ✅ Completed |
+|  10 | Paris Art      |      4      | ✅ Completed |
+|  11 | More Exercises |      —      |  ⏳ Upcoming |
 
 ---
 
